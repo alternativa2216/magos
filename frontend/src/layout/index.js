@@ -217,7 +217,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            Whatsapp
+            FireZAP - Firecloud.Solutions
           </Typography>
           {user.id && <NotificationsPopOver />}
 
