@@ -217,7 +217,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            Pulse Zap - Sistema de Multiatendimento via whatsapp
+            Sistema de Multiatendimento via whatsapp
           </Typography>
           {user.id && <NotificationsPopOver />}
 
